@@ -1,3 +1,3 @@
 # My-Portfolio
 
-#This Portfolio Showcase my work as a Software Engineer 
+#This Portfolio showcase my work as a Software Engineer 
